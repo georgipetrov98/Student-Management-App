@@ -1,0 +1,107 @@
+C:\Users\user\Desktop\EmployeeApplication\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\EmployeeApplication\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\My LiveBox\Teaching\CS6004-Appplication Development\EmployeeApplication\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\user\My LiveBox\Teaching\CS6004-Appplication Development\EmployeeApplication\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\My LiveBox\Teaching\CS6004-Appplication Development\EmployeeApplication\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\My LiveBox\Teaching\CS6004-Appplication Development\EmployeeApplication\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\My LiveBox\Teaching\CS6004-Appplication Development\EmployeeApplication\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\My LiveBox\Teaching\CS6004-Appplication Development\EmployeeApplication\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\My LiveBox\Teaching\CS6004-Appplication Development\EmployeeApplication\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\My LiveBox\Teaching\CS6004-Appplication Development\EmployeeApplication\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\My LiveBox\Teaching\CS6004-Appplication Development\EmployeeApplication\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dangq\Desktop\Exercise3Solution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\dangq\Desktop\Exercise3Solution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\dangq\Desktop\Exercise3Solution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dangq\Desktop\Exercise3Solution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dangq\Desktop\Exercise3Solution\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dangq\Desktop\Exercise3Solution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dangq\Desktop\Exercise3Solution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dangq\Desktop\Exercise3Solution\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dangq\Desktop\Exercise3Solution\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\Exercise4Solution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\Exercise4Solution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\Exercise4Solution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\Exercise4Solution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\Exercise4Solution\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\Exercise4Solution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\Exercise4Solution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\Exercise4Solution\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\Exercise4Solution\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\EmployeesWithDepartmentSolution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\EmployeesWithDepartmentSolution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\week09\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\CS6004\cs6004-weeks1-12\EmployeesWithDepartmentSolution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\CS6004\cs6004-weeks1-12\EmployeesWithDepartmentSolution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\CS6004\cs6004-weeks1-12\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csprojResolveAssemblyReference.cache
+E:\CS6004\cs6004-weeks1-12\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\CS6004\cs6004-weeks1-12\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\CS6004\cs6004-weeks1-12\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csproj.GenerateResource.Cache
+E:\CS6004\cs6004-weeks1-12\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\CS6004\cs6004-weeks1-12\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\dangq\Desktop\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\dangq\Desktop\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\dangq\Desktop\EmployeesWithDepartmentSolution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dangq\Desktop\EmployeesWithDepartmentSolution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dangq\Desktop\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csprojResolveAssemblyReference.cache
+C:\Users\dangq\Desktop\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dangq\Desktop\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dangq\Desktop\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csproj.GenerateResource.Cache
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\temp\EmployeesWithDepartmentSolution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\temp\EmployeesWithDepartmentSolution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\temp\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\temp\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\temp\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\temp\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\temp\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\temp\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\My Box Files\Default Sync Folder\cs6004\Autumn\temp\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nomaderino\Desktop\cheatnumber 2\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Nomaderino\Desktop\cheatnumber 2\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nomaderino\Desktop\cheatnumber 2\EmployeesWithDepartmentSolution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Nomaderino\Desktop\cheatnumber 2\EmployeesWithDepartmentSolution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nomaderino\Desktop\cheatnumber 2\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csprojResolveAssemblyReference.cache
+C:\Users\Nomaderino\Desktop\cheatnumber 2\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nomaderino\Desktop\cheatnumber 2\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nomaderino\Desktop\cheatnumber 2\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csproj.GenerateResource.Cache
+C:\Users\gep0316\Downloads\EmployeesWithDepartmentSolution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\gep0316\Downloads\EmployeesWithDepartmentSolution\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\gep0316\Downloads\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csprojAssemblyReference.cache
+C:\Users\gep0316\Downloads\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\gep0316\Downloads\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\gep0316\Downloads\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\gep0316\Downloads\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\gep0316\Downloads\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\gep0316\Downloads\EmployeesWithDepartmentSolution\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\svile\Desktop\svilen\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\svile\Desktop\svilen\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\svile\Desktop\svilen\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csprojAssemblyReference.cache
+C:\Users\svile\Desktop\svilen\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\svile\Desktop\svilen\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\svile\Desktop\svilen\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\svile\Desktop\svilen\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\svile\Desktop\svilen\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nomad\Desktop\app dev\svilen\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Nomad\Desktop\app dev\svilen\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nomad\Desktop\app dev\svilen\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csprojResolveAssemblyReference.cache
+C:\Users\Nomad\Desktop\app dev\svilen\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nomad\Desktop\app dev\svilen\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nomad\Desktop\app dev\svilen\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csproj.GenerateResource.Cache
+C:\Users\Nomad\Desktop\app dev\svilen\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Nomad\Desktop\app dev\svilen\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Nomad\Desktop\app dev\svilen\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csprojResolveAssemblyReference.cache
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csproj.GenerateResource.Cache
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

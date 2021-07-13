@@ -1,0 +1,20 @@
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\StudentApp.csprojResolveAssemblyReference.cache
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\StudentApp.csproj.GenerateResource.Cache
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Nomad\Desktop\app dev\gosho\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\NoMaD\Desktop\winform\gosho\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\NoMaD\Desktop\winform\gosho\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\NoMaD\Desktop\winform\gosho\WindowsFormsApplication1\obj\x86\Debug\StudentApp.csproj.AssemblyReference.cache
+C:\Users\NoMaD\Desktop\winform\gosho\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\NoMaD\Desktop\winform\gosho\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\NoMaD\Desktop\winform\gosho\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\NoMaD\Desktop\winform\gosho\WindowsFormsApplication1\obj\x86\Debug\StudentApp.csproj.GenerateResource.cache
+C:\Users\NoMaD\Desktop\winform\gosho\WindowsFormsApplication1\obj\x86\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\NoMaD\Desktop\winform\gosho\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\NoMaD\Desktop\winform\gosho\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
