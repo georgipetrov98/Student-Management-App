@@ -16,3 +16,4 @@ Grading a student and getting a group grade: ![alt text](https://github.com/geor
 ![alt text](https://github.com/georgipetrov98/Student-Management-App/blob/main/Pics/After%20adding%20the%20studentButton.png)
 
 Bulk assigning students to a group + warning: ![alt text](https://github.com/georgipetrov98/Student-Management-App/blob/main/Pics/Groups.png)
+![alt text](https://github.com/georgipetrov98/Student-Management-App/blob/main/Pics/ChangeGroupNameButton.png)
