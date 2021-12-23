@@ -11,6 +11,8 @@ Adding a student + warning message: ![alt text](https://github.com/georgipetrov9
 
 Grading a student and getting a group grade: ![alt text](https://github.com/georgipetrov98/Student-Management-App/blob/main/Pics/Sort.png)
 
-Sorting by name/serializing/etc: ![alt text](https://github.com/georgipetrov98/Student-Management-App/blob/main/Pics/After%20adding%20the%20studentButton.png)
+  Sorting by name/serializing/etc: 
+
+![alt text](https://github.com/georgipetrov98/Student-Management-App/blob/main/Pics/After%20adding%20the%20studentButton.png)
 
 Bulk assigning students to a group + warning: ![alt text](https://github.com/georgipetrov98/Student-Management-App/blob/main/Pics/Groups.png)
